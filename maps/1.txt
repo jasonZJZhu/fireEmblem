@@ -1,0 +1,12 @@
+m m f 0 0 0 0 0 0 0 0 0 0 f f s
+m m 0 0 0 0 0 0 0 0 0 m 0 f f s
+m m 0 0 0 0 0 0 0 m m m 0 m s s
+m 0 0 0 0 0 0 0 0 0 0 0 f m m s
+0 0 0 0 0 0 m m 0 0 m m 0 f f s
+0 0 m 0 m m m 0 0 0 f 0 0 f s s
+0 m 0 f m m m 0 0 0 f f 0 0 f s
+0 m f m m f f f 0 0 f s s s s s
+f m m m m f 0 0 0 0 f f s f f s
+f s m f f f 0 0 0 0 0 0 0 0 0 s
+s s s f f 0 0 0 0 0 0 0 0 m m s
+s s s f 0 0 0 m m 0 0 0 0 m s s
